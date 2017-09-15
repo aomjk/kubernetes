@@ -1,6 +1,6 @@
 # kubernetes
 
-Lab1 : Deploy a microservices app on Kubernetes
+Lab 1 : Deploy a microservices app on Kubernetes
 <p>
 https://www.ibm.com/devops/method/tutorials/microservices-app-on-kubernetes
 
